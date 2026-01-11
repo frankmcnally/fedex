@@ -1,0 +1,8 @@
+## Pages
+- [- Fleet Manager](/truckdetail): No description available
+- [- Fleet Manager](/vandetail): No description available
+- [Dashboard - Fleet Manager](/dashboard): Fleet management dashboard showing trucks, vans, and package statistics
+- [Packages - Fleet Manager](/packages): Manage packages for all trucks and vans
+- [Reports - Fleet Manager](/reports): View fleet analytics and reports
+- [Trucks - Fleet Manager](/trucks): View all trucks and their package capacity
+- [Vans - Fleet Manager](/vans): View all vans and their package capacity
